@@ -1,0 +1,9 @@
+Test,Passes,Failures,Pass Rate
+/usr/local/lib/python3.10/dist-packages/cleverhans/torch/tests/test_utils.py::TestOptimizeLinear::test_optimize_linear_l2_satisfies_norm_constraint,100,0,100.00%
+/usr/local/lib/python3.10/dist-packages/cleverhans/torch/tests/test_attacks.py::TestSparseL1Descent::test_do_not_reach_lp_boundary,100,0,100.00%
+/usr/local/lib/python3.10/dist-packages/cleverhans/torch/tests/test_attacks.py::TestSPSA::test_clips,200,0,100.00%
+/usr/local/lib/python3.10/dist-packages/cleverhans/torch/tests/test_attacks.py::TestHopSkipJumpAttack::test_generate_np_untargeted_l2,100,0,100.00%
+/usr/local/lib/python3.10/dist-packages/cleverhans/torch/tests/test_attacks.py::TestCarliniWagnerL2::test_adv_examples_clipped_successfully,200,0,100.00%
+/usr/local/lib/python3.10/dist-packages/cleverhans/torch/tests/test_utils.py::TestOptimizeLinear::test_clip_eta_linf,100,0,100.00%
+/usr/local/lib/python3.10/dist-packages/cleverhans/torch/tests/test_attacks.py::TestHopSkipJumpAttack::test_generate_targeted_l2,100,0,100.00%
+/usr/local/lib/python3.10/dist-packages/cleverhans/torch/tests/test_attacks.py::TestFastGradientMethod::test_clips,100,0,100.00%
